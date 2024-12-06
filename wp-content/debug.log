@@ -1,0 +1,27 @@
+[06-Dec-2024 12:19:08 UTC] Sanitized Data: Array
+(
+    [fname] => Shakib
+    [lname] => Shown
+    [email] => shakib6472@hotmail.com
+    [phone] => 01319303850
+    [address] => 54, Shah Alibag roada, Mirpur 1
+    [zipcode] => 1206
+    [city] => Mirpur 1
+    [state] => NT
+    [ip_address] => ::1
+    [timestamp] => 2024-12-06 12:19:08
+)
+
+[06-Dec-2024 12:19:08 UTC] Insert Data: Array
+(
+    [fname] => Shakib
+    [lname] => Shown
+    [email] => shakib6472@hotmail.com
+    [phone] => 01319303850
+    [address] => 54, Shah Alibag roada, Mirpur 1
+    [zipcode] => 1206
+    [city] => Mirpur 1
+    [state] => NT
+    [ip_address] => ::1
+    [timestamp] => 2024-12-06 12:19:08
+)
